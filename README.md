@@ -1,8 +1,9 @@
 # EBReader其他功能介绍
 ## 安装  
-下载地址：https://plugins.jetbrains.com/plugin/download?rel=true&updateId=642178  
-支持idea版本 2022.2.5以上  
-插件初次开发，正在审核中，插件市场里搜不到，可以直接从这个地址下载。
+直接在idea的marketplace里搜索ebreader点击安装即可  
+### 功能差异  
+idea版本在2022.2.5以上的，所有功能均支持  
+idea版本是2020系列的，仅支持基础的阅读功能、小工具集、网络爬取电子书功能
 ## 一.内嵌浏览器功能
 ### 快捷键  ALT + w
 ![image](https://github.com/user-attachments/assets/d7e83c0c-b87d-470f-a987-9a25fd5692c3)
